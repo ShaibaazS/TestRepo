@@ -1,3 +1,3 @@
-**Markdown**
+**Markdown Document**
 
 * https://guides.github.com/features/mastering-markdown/
